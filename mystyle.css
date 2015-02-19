@@ -1,0 +1,19 @@
+body{
+	background-color: gray;
+}
+h1 {
+	color: red;
+	background-color: orange;
+	text-align: center;
+	font-style: oblique;
+}
+h2 {
+	background-color: yellow;
+	text-align: center;
+}
+ul {
+	text-align: center;
+}
+p.center{
+	text-align: center;
+}
